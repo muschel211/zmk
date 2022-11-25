@@ -6,11 +6,11 @@ manifest:
       url-base: https://github.com/zmkfirmware
     - name: microsoft
       url-base: https://github.com/microsoft
-    - name: infused-kim
-      url-base: https://github.com/infused-kim
+    - name: muschel211
+      url-base: https://github.com/muschel211
   projects:
     - name: zmk-zephyr
-      remote: infused-kim
+      remote: muschel211
       revision: v2.5.0+zmk-fixes+kim-fixes
       clone-depth: 1
       import:
